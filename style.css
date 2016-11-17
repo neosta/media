@@ -407,7 +407,8 @@ li p, .art-postcontent li p, .art-blockcontent li p
 
 .responsive .art-header 
 {
-   background-image: url('images/header.png');
+   
+   background: #002558;
    background-position: center center;
 }
 
