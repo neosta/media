@@ -403,6 +403,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
    position: relative;
    width: 400px;
    z-index: auto !important;
+   margin-top: 0px;
 }
 
 .responsive .art-header 
