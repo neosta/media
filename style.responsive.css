@@ -56,7 +56,7 @@
 .responsive .art-responsive-embed 
 {
    position: relative;
-   padding-bottom: 56.25%;
+   padding-bottom: 5%;
    /* 16:9 */
 	height: 0;
 }
